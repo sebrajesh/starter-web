@@ -5,8 +5,8 @@ Simple project for showing Git usage
 example to show different parts of git repo
 
 ## Purpose
-
+main purpose provide simpe eg
 ## Deployment
-
+simple web project
 ## How To Contribute
 
