@@ -9,4 +9,5 @@ main purpose provide simpe eg
 ## Deployment
 simple web project
 ## How To Contribute
-
+## Copyright notice
+2021 Git.training
