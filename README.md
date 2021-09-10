@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple project for showing Git usage.Adding a line for rebasing example.
+Simple project for showing Git usage.Adding a line for rebasing example,then more changes from myfeature branch too.
 ## Introduction
 example to show different parts of git repo
 
