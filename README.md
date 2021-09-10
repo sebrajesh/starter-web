@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple project for showing Git usage
+Simple project for showing Git usage.Adding a line for rebasing example.
 ## Introduction
 example to show different parts of git repo
 
