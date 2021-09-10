@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!
+   Copyright 2Git.training
+<<<<<<< HEAD
+   Some silly changes from master branch
+-->
+<head>
+	<title>Silly changes form master </title>
+=======
+    These changes are from the feature branch bigtrouble
+-->
+<head>
+	<title>Lots of Trouble</title>
+>>>>>>> a123f0a (fb adding some truble to simple.htmL)
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!--Junk Filter Content -->
+		<p>
+		Just stuff for now,
+		Not sure if we should replace this or not
+		<p>
+		  Just nothing but toruble
+		 <p>
+	</main>
+	<footer class="container">
+		<p>&copy; GIT TRAINING</p>
+			Some interesting stuff goes here .....
+		</p>
+	</footer>
+</body>
+</html>
